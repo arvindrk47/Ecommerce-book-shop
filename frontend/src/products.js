@@ -17,7 +17,7 @@ const products = [
         description: 'Easily acclaimed as one of the best Stephen King books, The Shining has been discussed, debated, and parodied so often that it is a cornerstone today in popular culture. Jack Torrance, a recovering alcoholic, is the new caretaker at an old hotel. To no one but Jack’s surprise, the hotel has a dark past, which soon comes out to play… and the key to it all might lie in Danny Torrance, a young boy who possesses “the shining”: a psychic ability to mind-read and see things others cannot. This was the book that vaulted King to superstardom, and for good reason — The Shining is peak King from first page to last.',
         category: 'Horror',
         price: 149.20,
-        rating: 4.9,
+        rating: 4.5,
         numReviews: 12,
 
     },
@@ -28,7 +28,7 @@ const products = [
         description: 'If you enjoyed IT for the child heroes confronting evil forces, you’re going to love King’s return to that theme in The Institute. Centered around twelve-year-old Luke, a boy who’s parents are murdered on the night he’s stolen from his home, this a story of conspiracy, secret experiments, and children with paranormal powers. At the Institute, Luke and other children like him — children who have displayed either telekinesis or telepathy — are subjected to brutal procedures designed to enhance their abilities. But you can only keep people down for so long before thoughts of rebellion begin to whisper through the halls.',
         category: 'Horror',
         price: 120.48,
-        rating: 4.4,
+        rating: 3.5,
         numReviews: 5,
         
     },
@@ -39,7 +39,7 @@ const products = [
         description: 'King delves expertly into the psychological effects of such a predicament, making what is essentially a one-woman book terrifying. Be aware that there are graphic descriptions of domestic battery and molestation, as King directly confronts sexual abuse and victim humiliation. Yet the characterization is strong and the story compelling.',
         category: 'Horror',
         price: 110.48,
-        rating: 4.2,
+        rating: 4.0,
         numReviews: 3,
     },
     {
@@ -59,7 +59,7 @@ const products = [
         description: 'The Dead Zone is a science fiction thriller novel by Stephen King published in 1979. The story follows Johnny Smith, who awakens from a coma of nearly five years and, apparently as a result of brain damage, now experiences clairvoyant and precognitive visions triggered by touch.',
         category: 'Horror',
         price: 193.78,
-        rating: 4.2,
+        rating: 4.5,
         numReviews: 2,
 
     },
@@ -70,7 +70,7 @@ const products = [
         description: 'Billy Summers is a hitman and former Marine sniper who only accepts jobs killing "bad" men and wants to retire altogether. Nick, who Billy has worked for many times before, offers Billy one last job -- one that pays $500K upfront and $1.5M after its done. The target, Joel Allen, is also a hitman.',
         category: 'Thriller',
         price: 147.38,
-        rating: 4.3,
+        rating: 3.0,
         numReviews: 1
     }
 ]
